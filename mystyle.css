@@ -1,0 +1,116 @@
+*
+{
+	margin:0;
+	padding: 0;
+	background-color: gray;
+}
+.first
+{
+	background: #999999;
+
+	width: 100%;
+	font-size: 40px;
+	text-align:right;
+	height: 50px;
+
+
+
+}
+.first :hover
+{
+	border: 5px solid red;
+	background-color: gray;
+}
+.second
+{
+	height: 500px;
+}
+.third
+{
+	font-size: 500%;
+	background-color: gray;
+}
+#slider_image img
+{
+	position: relative;
+	width: 600px;
+	height: 00px;
+}
+#slide_image img
+{
+	position: center;
+	top: 35%;
+	height: 300px;
+	width: 300px;
+	border-radius: 20%;
+
+}
+.cppcp
+{
+	position: relative;
+	font-size: 100%;
+	background:transparent;
+	
+}
+.bottom-right
+{
+	  position: absolute;
+    bottom: 16px;
+    right: 16px;
+    font-size: 30px;
+    font-stretch: 30%;
+}
+.bottom-right :hover
+{
+	border: 5px solid red;
+	background-color: ;
+}
+.contct-info
+{
+	font-size: 30px;
+}
+.contact
+{
+	font-size: 30px;
+}
+.form .m-b-15
+ {
+	margin-bottom: 15px;
+	}
+.form
+	{
+margin-bottom: 15px;
+	}
+.skill
+{
+	position: center;
+	font-size: 200%;
+	background-color: gray;
+}
+.table
+{
+	font-size: 150%;
+	bottom: : 200%;
+}
+.skill
+{
+	font-size: 200%;
+	bottom: : 100%;
+}
+.mmm
+{
+	font:100%; 
+
+}
+.phto img
+{
+	position: center;
+	top: 35%;
+	height: 300px;
+	width: 300px;
+	border-radius: 20%;
+}
+.contact img
+{
+	
+}
